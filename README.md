@@ -344,12 +344,12 @@ Corrige cualquier incumplimiento antes de entregar la respuesta.
 ## 📸 Capturas de las landing pages
 
 ### Landing Page — Agente 1
-(./capturas/landing-agente-1.png)
+![Captura de la landing page generada por el Agente 1](./capturas/landing-agente-1.png)
 
 
 ### Landing Page — Agente 2
 
-(./capturas/landing-agente-2.png)
+![Captura de la landing page generada por el Agente 2](./capturas/landing-agente-2.png)
 
 <div align="center">
 
