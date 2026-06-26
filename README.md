@@ -42,7 +42,7 @@ La solución fue desarrollada con **HTML5 semántico, CSS3 y JavaScript vanilla*
 
 La portada y ambas landing pages se encuentran integradas en un único despliegue de Vercel:
 
-> **URL del proyecto:** (https://REEMPLAZAR-CON-LA-URL-DEL-PROYECTO.vercel.app/)
+> **URL del proyecto:** (https://pfo-2-front-end-prompt-engineering.vercel.app//)
 
 
 ---
@@ -340,6 +340,20 @@ Corrige cualquier incumplimiento antes de entregar la respuesta.
 ```
 
 </details>
+
+## 📸 Capturas y recorridos de las landing pages
+
+### Landing Page — Agente 1
+[![Ver recorrido de la Landing Page del Agente 1](./capturas/landing-agente-1.png)](./capturas/landing-agente-1.mp4)
+
+> Hacé clic sobre la imagen para reproducir el recorrido.
+
+
+### Landing Page — Agente 2
+
+[![Ver recorrido de la Landing Page del Agente 2](./capturas/landing-agente-2.png)](./capturas/landing-agente-2.mp4)
+
+> Hacé clic sobre la imagen para reproducir el recorrido.
 
 <div align="center">
 
