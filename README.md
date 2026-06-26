@@ -33,7 +33,6 @@ La solución fue desarrollada con **HTML5 semántico, CSS3 y JavaScript vanilla*
 | **Nombres y apellidos** | Melissa Giselle Galeano Ibañez |
 | **Materia** | Desarrollo de Sistemas Web (Front End) |
 | **Comisión** | D |
-| **Profesor** | Luciano Martinez |
 | **Institución** | IFTS N.° 29 |
 | **Año** | 2026 |
 
