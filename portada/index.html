@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Práctica Formativa Obligatoria 2 | Prompt Engineering en Agentes de IA</title>
+  <meta name="description" content="Portada de acceso a las landing pages generadas por dos agentes de IA y al texto plano del prompt utilizado.">
+  <meta name="theme-color" content="#f7f1e7">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Práctica Formativa Obligatoria 2">
+  <meta property="og:description" content="Prompt Engineering en Agentes de IA: acceso al prompt y a las landing pages generadas.">
+  <meta property="og:locale" content="es_AR">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./script.js" defer></script>
+</head>
+<body>
+
+  <div class="page-shell">
+    <header class="cover-header" aria-labelledby="page-title">
+      <div class="cover-heading reveal">
+        <p class="eyebrow"><span aria-hidden="true"></span> Entrega académica 2026</p>
+        <h1 id="page-title">Práctica Formativa Obligatoria 2</h1>
+        <p class="subtitle">Prompt Engineering en Agentes de IA</p>
+      </div>
+    </header>
+
+    <main id="accesos" class="access-section" aria-labelledby="access-title">
+      <h2 id="access-title" class="sr-only">Accesos a la entrega</h2>
+
+      <div class="agent-grid">
+        <article class="access-card access-card--forest reveal">
+          <div class="card-topline">
+            <span class="agent-badge" aria-hidden="true">A1</span>
+            <p class="agent-number">Primer agente</p>
+          </div>
+
+          <h3>Landing Page — Agente 1</h3>
+
+          <dl class="agent-meta">
+            <div>
+              <dt>Agente</dt>
+              <dd>ChatGPT, de OpenAI</dd>
+            </div>
+            <div>
+              <dt>Modelo utilizado</dt>
+              <dd>GPT-5.5 Thinking</dd>
+            </div>
+          </dl>
+
+
+          <a class="card-link" href="../chatgpt/index-chatgpt.html">
+            Ver resultado <span aria-hidden="true">→</span>
+          </a>
+        </article>
+
+        <article class="access-card access-card--terracotta reveal">
+          <div class="card-topline">
+            <span class="agent-badge" aria-hidden="true">A2</span>
+            <p class="agent-number">Segundo agente</p>
+          </div>
+
+          <h3>Landing Page — Agente 2</h3>
+
+          <dl class="agent-meta">
+            <div>
+              <dt>Agente</dt>
+              <dd>Gemini</dd>
+            </div>
+            <div>
+              <dt>Modelo utilizado</dt>
+              <dd>Gemini 1.5 Pro</dd>
+            </div>
+          </dl>
+
+          <a class="card-link" href="../gemini/index-gemini.html">
+            Ver resultado <span aria-hidden="true">→</span>
+          </a>
+        </article>
+      </div>
+
+      <a class="prompt-access reveal" href="./prompt.txt" target="_blank" rel="noopener">
+        <span class="prompt-access__icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" focusable="false">
+            <path d="M7 3h7l4 4v14H7z"></path>
+            <path d="M14 3v5h5M10 12h5M10 16h5"></path>
+          </svg>
+        </span>
+        <span class="prompt-access__copy">
+          <strong>Ver texto plano del prompt utilizado</strong>
+          <small>Documento completo en formato .txt</small>
+        </span>
+        <span class="prompt-access__arrow" aria-hidden="true">↗</span>
+      </a>
+    </main>
+
+    <footer class="site-footer">
+      <p>IFTS N.°29 <span aria-hidden="true">•</span> Materia: Desarrollo de Sistemas Web (Front End) <span aria-hidden="true">•</span> Profesor: Luciano Martinez <span aria-hidden="true">•</span> 2026</p>
+    </footer>
+  </div>
+
+  <div class="decor decor--one" aria-hidden="true"></div>
+  <div class="decor decor--two" aria-hidden="true"></div>
+</body>
+</html>
